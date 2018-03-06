@@ -1,0 +1,11 @@
+
+#loginpage
+Loginpage.userid.id=userid
+Loginpage.password.id=password
+Loginpage.loginbtn.id=loginButton
+
+#Homepage
+Homepage.institution.id=inst
+Homepage.cardnumbertextbox.id=maskedCardNumber
+Homepage.searchBtn.id=searchSubmit
+Homepage.Logoutlink.linktext=Log Out

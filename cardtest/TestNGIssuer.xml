@@ -1,0 +1,8 @@
+<suite name = "Suite1">
+   <test name = "test1">
+      <classes>
+         <class name = "testcases.Testcase001" priority="1" />
+         <class name = "testcases.Testcase002" priority="2"/>
+      </classes>
+   </test>
+</suite>	
